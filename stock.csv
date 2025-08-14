@@ -1,0 +1,101 @@
+stockID,name,price,quantity,reorderLevel
+1,4K Ultra HD TV,1313.29,482,48
+2,Organic Olive Oil,115.49,500,34
+3,Bluetooth Headphones,123.42,182,75
+4,Yoga Mat,7.1,56,55
+5,Waterproof Speaker,165.2,484,30
+6,Charging Pad,248.95,461,76
+7,Running Shoes,471.86,116,45
+8,Insulated Jacket,14.71,383,20
+9,Multivitamins,164.75,308,40
+10,Coffee Machine,280.36,486,90
+11,Smart Thermostat,226.56,393,32
+12,Toothbrush,365.78,308,43
+13,Gaming Laptop,1682.47,444,72
+14,Hair Dryer,126.1,360,11
+15,Vacuum Cleaner,275.22,259,94
+16,SLR Camera,74.59,128,95
+17,Fitness Tracker,151.73,296,30
+18,Wireless Earbuds,372.46,329,59
+19,Air Fryer,94.27,362,89
+20,Stick Vacuum,198.2,362,13
+21,Outdoor Grill,444.1,406,37
+22,Tablet,266.11,362,12
+23,Noise Cancelling Headphones,107.62,56,43
+24,Smartwatch,184.83,475,26
+25,Action Camera,467.74,149,73
+26,Electric Kettle,469.0,220,54
+27,Security Camera,13.87,293,24
+28,Yoga Pants,107.66,256,81
+29,Foam Pillow,63.0,364,10
+30,Desk Lamp,118.39,194,41
+31,Dog Food,496.91,327,33
+32,Cat Litter,480.21,420,89
+33,Light Bulbs,241.3,65,30
+34,Cycling Bike,359.02,281,65
+35,Smart Lock,90.67,204,30
+36,WiFi Extender,448.09,117,73
+37,Hard Drive,206.52,146,91
+38,Gaming Console,374.79,310,92
+39,Electric Scooter,50.38,275,35
+40,Portable Speaker,262.12,500,73
+41,Wine Cooler,14.73,224,37
+42,Smartphone,70.74,356,24
+43,Backpack,418.71,92,43
+44,Wireless Mouse,233.42,118,49
+45,Computer Monitor,63.04,41,24
+46,Office Chair,489.22,264,61
+47,Printer,213.77,451,70
+48,Keyboard,298.67,265,88
+49,Table Lamp,469.16,184,99
+50,Bookshelf,436.86,123,94
+51,Wireless Keyboard,1454.87,300,25
+52,Solar Garden Light,988.04,64,13
+53,Electric Grill,1224.88,274,42
+54,Digital Camera,46.92,120,50
+55,Smart Doorbell,246.62,242,45
+56,LED TV,497.57,106,15
+57,Gaming Mouse,666.44,297,23
+58,Bluetooth Tracker,640.77,70,19
+59,Smart Light Bulb,280.5,86,18
+60,Therapeutic Pillow,1264.81,54,28
+61,Organic Dog Treats,136.38,240,32
+62,Kids' Bicycle,1337.32,217,49
+63,Electric Blender,666.99,118,29
+64,Essential Oil Diffuser,795.93,221,49
+65,Cordless Drill,916.65,145,41
+66,Indoor Security Camera,454.61,201,30
+67,WiFi Router,1189.43,219,21
+68,Lawn Mower,827.55,166,12
+69,Water Filter Pitcher,1107.64,41,30
+70,Kitchen Scale,716.58,138,5
+71,Sleep Sound Machine,1249.94,59,41
+72,Portable Projector,133.79,136,30
+73,E-Reader,1394.01,109,6
+74,Compact Refrigerator,761.5,213,43
+75,Electric Shaver,845.25,124,42
+76,Drone with Camera,738.88,287,36
+77,Car Vacuum,468.37,153,41
+78,Smart Scale,1467.52,156,11
+79,Handheld Massager,526.41,283,37
+80,Trekking Backpack,1053.88,33,32
+81,Electric Toothbrush,1259.23,255,8
+82,Dishwasher Detergent,250.17,75,7
+83,Camping Tent,1107.27,270,11
+84,Beard Trimmer,1448.23,220,35
+85,Wrist Blood Pressure Monitor,411.1,115,35
+86,Yoga Block,434.8,77,42
+87,Bath Towel Set,103.26,29,21
+88,Hand Blender,316.11,150,36
+89,Reusable Water Bottle,1027.62,103,21
+90,Electric Pressure Cooker,176.56,261,8
+91,Travel Adapter,966.66,49,48
+92,Gaming Chair,1231.38,91,29
+93,Bicycle Helmet,489.38,115,29
+94,Wireless Charger,717.68,146,6
+95,Juice Extractor,659.4,256,18
+96,Steam Iron,1354.12,74,19
+97,Pet Carrier,566.85,221,43
+98,Telescope,733.03,17,15
+99,Pilates Ring,159.19,243,11
+100,Outdoor Fire Pit,1209.92,79,31
